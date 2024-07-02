@@ -118,4 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ### disktemp.sh
 
-This script retrieves the temperature of a specified disk using `smartctl` from `smartmontools`. You can find the script [here](https://github.com/P1ro/syspynfo/disktemp.sh).
+This script retrieves the temperature of a specified disk using `smartctl` from `smartmontools`. You can find the script [here](https://github.com/P1ro/syspynfo/blob/main/disktemp.sh).
