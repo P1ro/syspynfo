@@ -23,8 +23,8 @@ This Python tool collects and stores system information in a MongoDB database. T
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/P1ro/portfolio.git
-   cd portfolio/syspynfo
+   git clone https://github.com/P1ro/syspynfo.git
+   cd syspynfo
    ```
 
 2. **Create and activate a virtual environment:**
