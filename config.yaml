@@ -1,0 +1,3 @@
+# config.yaml
+mongo_uri: "mongodb+srv://user:password@localhost/dbname"
+database_name: "dbname"
